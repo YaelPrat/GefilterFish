@@ -8,8 +8,8 @@ This project uses OpenCV and dlib to detect faces and overlay a carrot image on 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/forehead-carrot-project.git
-    cd forehead-carrot-project
+    git clone https://github.com/YaelPrat/GefilterFish.git
+    cd GefilterFish
     ```
 
 2. **Install dependencies**:
